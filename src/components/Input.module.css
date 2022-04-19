@@ -1,0 +1,21 @@
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.input{
+    outline: 1px solid #EFF0F3;
+    border: 1px solid #EFF0F3;
+    padding: 0.6rem;
+    border-radius: 0.3rem;
+    background-color: #EFF0F3;
+    color: #23272F;
+    font-size: 1rem;
+    font-weight: 700;
+    cursor: pointer;
+    min-width: 20rem;
+    min-height: 1.5rem;
+
+}
